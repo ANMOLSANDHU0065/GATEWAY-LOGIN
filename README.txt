@@ -1,6 +1,6 @@
 # Gateway — Modern Messaging Web Application
 
-**Gateway** is a modern, responsive web application that combines a clean user interface with authentication and email-based messaging. The project focuses on frontend development, interactive user experiences, responsive styling, and third-party service integration.
+**Gateway** is a modern, responsive web application that combines a clean user interface with authentication and email-based messaging. The project focuses on frontend development, interactive user experiences, responsive styling, and third-party service integration. 
 
 ## About the Project
 
